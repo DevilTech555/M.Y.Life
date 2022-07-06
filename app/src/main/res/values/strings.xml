@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">M.Y.Life</string>
+    <string name="sign_out">sign out</string>
+    <string name="hello_naveen_pm">Hello Naveen PM</string>
+    <string name="sign_in">Sign IN</string>
+    <string name="signout">Sign OUT</string>
 </resources>
